@@ -1,0 +1,211 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Catalog Mode For WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-12 14:11+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.1\n"
+"X-Domain: product-catalog-mode-for-woocommerce"
+
+#: admin/wapcm-product-catalog-mode-admin.php:155
+#: admin/wapcm-product-catalog-mode-admin.php:158
+msgid "All"
+msgstr ""
+
+#: wapcm-product-catalog-mode.php:168
+msgid "Awesome Premium Features in Product Catalog Mode For WooCommerce Plugin"
+msgstr ""
+
+#: wapcm-product-catalog-mode.php:173
+msgid "Disable catalog mode for categories"
+msgstr ""
+
+#: wapcm-product-catalog-mode.php:174
+msgid "Disable catalog mode for Individual products"
+msgstr ""
+
+#: wapcm-product-catalog-mode.php:175
+msgid "Disable inquiry form for individual products"
+msgstr ""
+
+#: wapcm-product-catalog-mode.php:176
+msgid ""
+"Disable the global custom message and add a custom message for individual "
+"products"
+msgstr ""
+
+#: admin/wapcm-product-catalog-mode-admin.php:144
+msgid "Enable Catalog Mode"
+msgstr ""
+
+#: wapcm-product-catalog-mode.php:171
+msgid "Enable catalog mode based on countries"
+msgstr ""
+
+#: wapcm-product-catalog-mode.php:170
+msgid "Enable catalog mode based on user roles"
+msgstr ""
+
+#: admin/wapcm-product-catalog-mode-admin.php:152
+msgid "Enable catalog mode for"
+msgstr ""
+
+#: admin/wapcm-product-catalog-mode-admin.php:163
+msgid ""
+"Enable catalog mode for all users or visitors only or specific user roles or "
+"specific countries"
+msgstr ""
+
+#: admin/wapcm-product-catalog-mode-admin.php:146
+msgid "Enable Catalog Mode for your Online Store."
+msgstr ""
+
+#: wapcm-product-catalog-mode.php:110
+msgid "Go Pro"
+msgstr ""
+
+#: admin/wapcm-product-catalog-mode-admin.php:177
+msgid "Hide product price"
+msgstr ""
+
+#: admin/wapcm-product-catalog-mode-admin.php:179
+msgid "Hide product price for your Online Store."
+msgstr ""
+
+#: wapcm-product-catalog-mode.php:181
+msgid "Hide this notice"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpartisan.net/"
+msgstr ""
+
+#: wapcm-product-catalog-mode.php:172
+msgid "Inquiry form to collect customer inquiries for each product"
+msgstr ""
+
+#: public/wapcm-product-catalog-mode-public.php:331
+msgid "Login / Register"
+msgstr ""
+
+#: admin/wapcm-product-catalog-mode-admin.php:193
+msgid "Message"
+msgstr ""
+
+#: wapcm-product-catalog-mode.php:178
+msgid "Priority email support"
+msgstr ""
+
+#. Name of the plugin
+msgid "Product Catalog Mode For WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Product Catalog Mode For WooCommerce plugin can TURN INTO your online store "
+"as CATALOG ONLY MODE hiding by product price, Add to Cart button on a single "
+"click."
+msgstr ""
+
+#: wapcm-product-catalog-mode.php:94
+msgid ""
+"Product Catalog Mode For WooCommerce Plugin is enabled but not effective. In "
+"order to work it requires WooCommerce."
+msgstr ""
+
+#: admin/wapcm-product-catalog-mode-admin.php:113
+msgid "Product Catalog Settings"
+msgstr ""
+
+#: admin/wapcm-product-catalog-mode-admin.php:247
+msgid "Product details page"
+msgstr ""
+
+#: wapcm-product-catalog-mode.php:177
+msgid ""
+"Redirect products to third-party or affiliate sites, by assigning a custom "
+"URL for products"
+msgstr ""
+
+#: wapcm-product-catalog-mode.php:108
+msgid "Settings"
+msgstr ""
+
+#: admin/wapcm-product-catalog-mode-admin.php:246
+msgid "Shop and archive pages"
+msgstr ""
+
+#: admin/wapcm-product-catalog-mode-admin.php:187
+msgid ""
+"Show a custom message when enable catalog mode for your Online Store. The "
+"message will be shown on the product details page."
+msgstr ""
+
+#: admin/wapcm-product-catalog-mode-admin.php:185
+msgid "Show custom message"
+msgstr ""
+
+#: admin/wapcm-product-catalog-mode-admin.php:168
+msgid "Show Login/Register Button"
+msgstr ""
+
+#: admin/wapcm-product-catalog-mode-admin.php:200
+msgid "Show Message on"
+msgstr ""
+
+#: admin/wapcm-product-catalog-mode-admin.php:170
+msgid ""
+"Show the Login/Register button on the product details page when the catalog "
+"mode is enabled only for visitors."
+msgstr ""
+
+#: admin/wapcm-product-catalog-mode-admin.php:161
+msgid "Specific Countries"
+msgstr ""
+
+#: admin/wapcm-product-catalog-mode-admin.php:160
+msgid "Specific User Roles"
+msgstr ""
+
+#: admin/wapcm-product-catalog-mode-admin.php:202
+msgid ""
+"The above message will be shown on the product archive pages and product "
+"details page based on your selection."
+msgstr ""
+
+#: admin/wapcm-product-catalog-mode-admin.php:195
+msgid ""
+"This message will be shown on the product details page for each product."
+msgstr ""
+
+#: wapcm-product-catalog-mode.php:180
+msgid "Upgrade Now!"
+msgstr ""
+
+#: admin/wapcm-product-catalog-mode-admin.php:156
+#: admin/wapcm-product-catalog-mode-admin.php:159
+msgid "Visitors"
+msgstr ""
+
+#: admin/wapcm-product-catalog-mode-admin.php:138
+msgid "WooCommerce Catalog Mode"
+msgstr ""
+
+#: admin/wapcm-product-catalog-mode-admin.php:140
+msgid ""
+"WooCommerce Catalog Mode allows you to turn your Shop into a Catalog Mode, "
+"by hiding product prices or Add to Cart Button on product pages."
+msgstr ""
+
+#. Author of the plugin
+msgid "wpArtisan"
+msgstr ""
